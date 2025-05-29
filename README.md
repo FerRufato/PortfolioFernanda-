@@ -1,46 +1,71 @@
-# Getting Started with Create React App
+# 💼 Portfólio Profissional – Fernanda Rufato
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é um portfólio pessoal desenvolvido com o objetivo de apresentar minhas habilidades como Desenvolvedora Full Stack. A aplicação é responsiva, moderna e utiliza as melhores práticas de desenvolvimento web, com foco em performance, acessibilidade e design profissional.
 
-## Available Scripts
+## 🚀 Funcionalidades
 
-In the project directory, you can run:
+### 📌 Header Fixo e Interativo
 
-### `npm start`
+- O header é fixo no topo da página.
+- Esconde automaticamente ao rolar para baixo e reaparece ao rolar para cima.
+- Layout responsivo: se adapta para dispositivos móveis.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 🎯 Hero Section (Seção de Abertura)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Apresentação com título, descrição e botão de call to action.
+- Botão “Saiba Mais” que direciona para a seção de Contato.
 
-### `npm test`
+### 👩 Sobre Mim
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Sessão com descrição sobre minha trajetória profissional e de aprendizado.
+- Animações com a biblioteca AOS (Animate On Scroll).
 
-### `npm run build`
+### 🧠 Projetos
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Listagem de 4 projetos principais desenvolvidos.
+- Cada projeto contém:
+  - Imagem ilustrativa.
+  - Título.
+  - Descrição da stack ou funcionalidade.
+  - Botão que direciona para o projeto real (exemplo: [Projeto Efood](https://projeto-md35.vercel.app/)).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 📬 Contato
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Formulário funcional integrado com [Formspree](https://formspree.io).
+- Campos:
+  - Nome
+  - E-mail
+  - Mensagem
+- Envio direcionado ao e-mail `nandaoliveirarufato@gmail.com`.
+- Confirmação de envio com `alert()` e reset automático dos campos.
 
-### `npm run eject`
+### 📱 WhatsApp Fixo
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Ícone do WhatsApp fixo no canto inferior direito.
+- Ao clicar, o usuário é direcionado para uma conversa via número `+55 13 98181-1472`.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 🦶 Footer
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Rodapé com direitos autorais e links de navegação opcionais.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🛠️ Tecnologias Utilizadas
 
-## Learn More
+- **ReactJS** – Biblioteca para construção da UI.
+- **TypeScript** – Superset do JavaScript com tipagem estática.
+- **Styled Components** – Estilização CSS-in-JS moderna e modular.
+- **Framer Motion** – Animações elegantes e suaves.
+- **AOS (Animate On Scroll)** – Efeitos de scroll ao exibir conteúdo.
+- **Formspree** – Integração de formulário com backend para envio de e-mails.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📱 Responsividade
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+O projeto foi pensado para se adaptar a diferentes tamanhos de tela, sendo acessível em:
+
+- Dispositivos móveis
+- Tablets
+- Desktops
+
+## ✅ Como Acessar
+
+O portfólio está disponível online em:
+🔗 [https://seu-link.vercel.app](https://seu-link.vercel.app)
